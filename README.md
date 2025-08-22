@@ -41,6 +41,7 @@ npm install
 
 ### Create a .env file in the backend root directory:
 MONGO_URI=your_mongodb_connection_string
+
 AUTH_SECRET_KEY=your_super_secret_jwt_key
 
 ### Start the backend server:
